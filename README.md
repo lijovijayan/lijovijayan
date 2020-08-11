@@ -3,6 +3,7 @@ I'm a Software Developer  at [Blue Ripples Technologies](http://blueripples.com)
 - 🔭 I’m currently working on Flutter, Angular, Node.Js, React-Native powered projects
 - 🌱 I’m currently learning how to build awsome native apps
 - 💬 Ask me about [Flutter](https://flutter.dev)
+- 📫 How to reach me: [Say Hii](https://www.linkedin.com/in/lijovijayan)
 <!--
 **lijovijayan/lijovijayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
