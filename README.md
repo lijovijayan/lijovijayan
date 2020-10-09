@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a Software Developer  at [Blue Ripples Technologies](http://blueripples.com) in Trivandrum, IN
-- 🔭 I’m currently working on Flutter, Angular, Node.Js powered projects
+- 🔭 I’m currently working on Flutter, Angular, React.Js, Node.Js powered projects
 - 🌱 I’m currently learning how to build awesome native apps
 - 💬 Ask me about [Flutter](https://flutter.dev)
 - 📫 How to reach me: [Say Hii](https://www.linkedin.com/in/lijovijayan)
