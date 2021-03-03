@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lijo Vijayan. I design and develop softwares.
+I'm Lijo Vijayan. I design and build softwares.
 <!-- at [Blue Ripples Technologies](http://blueripples.com) in Trivandrum, IN -->
 - 🔭 I’m currently working on Flutter, React.Js, Angular, React-Native and Node.Js powered projects
 - 🌱 I’m currently learning how to build awesome Hybrid Apps
