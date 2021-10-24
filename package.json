@@ -1,0 +1,15 @@
+{
+  "name": "lijovijayan",
+  "homepage": "https://lijovijayan.dev/",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/lijovijayan/lijovijayan.git",
+  "author": "lijovijayan <lijovijayan00@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "node ."
+  },
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
