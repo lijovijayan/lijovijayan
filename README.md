@@ -1,3 +1,8 @@
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://lijovijayan.dev/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lijovijayan)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lijovijayan/)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Flijovijayan00)](https://twitter.com/lijovijayan00)
+
 ### Hi there 👋
 I'm Lijo Vijayan. I design and build softwares.
 <!-- at [Blue Ripples Technologies](http://blueripples.com) in Trivandrum, IN -->
