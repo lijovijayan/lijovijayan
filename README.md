@@ -39,7 +39,7 @@ Here are some ideas to get you started:
         <summary>⚡  GitHub Stats</summary>
           <br/>
         <p>
-            [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lijovijayan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+            <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=lijovijayan&](https://github-readme-streak-stats.herokuapp.com?user=lijovijayan&theme=dark&hide_border=true)" alt="lijovijayan" />
         </p>
     </details>
 </div>
